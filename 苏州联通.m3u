@@ -35,3 +35,23 @@ http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
 #EXTINF:-1 group-title="央视1080P",CCTV-17
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
+#EXTINF:-1 group-title="4K超高清",江苏卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000454@JSBC
+#EXTINF:-1 group-title="4K超高清",江苏卫视4K-2
+http://112.86.202.37:8112/JSBC_iptv/C10000455@JSBC
+#EXTINF:-1 group-title="4K超高清",北京卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000425@JSBC
+#EXTINF:-1 group-title="4K超高清",东方卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000463@JSBC
+#EXTINF:-1 group-title="4K超高清",浙江卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000457@JSBC
+#EXTINF:-1 group-title="4K超高清",广东卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000436@JSBC
+#EXTINF:-1 group-title="4K超高清",深圳卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000438@JSBC
+#EXTINF:-1 group-title="4K超高清",山东卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000465@JSBC
+#EXTINF:-1 group-title="4K超高清",湖南卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000461@JSBC
+#EXTINF:-1 group-title="4K超高清",四川卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000459@JSBC
